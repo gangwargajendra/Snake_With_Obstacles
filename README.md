@@ -64,7 +64,7 @@ Snake_With_Obstacles/
 
 ## 🌟 Screenshots
 
-![User Interface](Snake_With_Obstacles/interface.png)
+![User Interface](interface.png)
 ---
 
 Made with ❤️ using Python
